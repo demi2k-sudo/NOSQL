@@ -1,0 +1,19 @@
+.register-form-container{
+    display : flex;
+    align-items: center;
+    justify-content: center;
+    height: 150vh;
+    background-color: black;
+}
+
+.Register-form{
+    border: 1px solid gray;
+    padding :30px;
+    width : 30%;
+    border-radius: 25px;
+    box-shadow: 0 0 20px 0.2px red;
+}
+
+.register-color{
+    color: crimson;
+}
